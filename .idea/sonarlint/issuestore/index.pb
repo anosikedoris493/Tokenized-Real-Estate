@@ -7,3 +7,5 @@ S
 #tests/property-tokenization.test.ts,d/7/d7fb3f40beb87462daa829f47d203dd078e30439
 S
 #contracts/fractional-ownership.clar,8/0/80a8b47ee5247e9a178671b48d8d6d55306da6b0
+R
+"contracts/property-management.clar,f/e/fe85df7eb1e2c5d5b3563926f61d096d4922bda5
