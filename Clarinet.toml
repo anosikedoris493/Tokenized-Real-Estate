@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.fractional-ownership]
+path = 'contracts/fractional-ownership.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.property-tokenization]
 path = 'contracts/property-tokenization.clar'
 clarity_version = 2
